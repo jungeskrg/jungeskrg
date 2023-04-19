@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jungeskrg
 - 👀 I’m interested in IT, Books, Crypto, Languages.
-- 🌱 I’m currently learning Front-End Development on EBAC and DevMedia..
+- 🌱 I’m currently learning Front-End Development on EBAC and DevMedia.
 - 📫 How to reach me junges.krg@gmail.com
 
 <!---
