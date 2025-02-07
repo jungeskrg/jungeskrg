@@ -1,3 +1,4 @@
+
 -👋 Hi, I’m @jungeskrg
 -👀 I’m interested in IT, Books, Crypto, Languages, and Traveling the World
 -🎓 Starting my second degree in Internet Systems at Unisinos
